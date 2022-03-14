@@ -1,0 +1,11 @@
+{
+  "name": "venta-online",
+  "version": "1.0.0",
+  "description": "Este es un programa que se encarga de las ventas online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Pinzon",
+  "license": "ISC"
+}
